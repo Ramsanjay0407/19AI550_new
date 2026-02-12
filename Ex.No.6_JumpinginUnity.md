@@ -50,8 +50,7 @@ public class PlayerJump : MonoBehaviour
 ### Output:
 
 
-![WhatsApp Image 2026-02-12 at 2 38 41 PM](https://github.com/user-attachments/assets/d40a0ae4-9214-4062-bd35-11aa8fcbbe75)
-
+![WhatsApp Image 2026-02-12 at 2 38 41 PM](https://github.com/user-attachments/assets/77365fe0-733b-476f-91a9-d7d10e8e90a8)
 
 
 
