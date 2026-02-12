@@ -1,6 +1,6 @@
 # Ex.No: 6  Implementation of Jumping  behaviour- Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:  12/02/2026                                                                          
+### REGISTER NUMBER : 212224220077
 ### AIM: 
 To write a program to simulate the process of jumping in Unity.
 ### Algorithm:
@@ -50,6 +50,7 @@ public class PlayerJump : MonoBehaviour
 ### Output:
 
 
+![WhatsApp Image 2026-02-12 at 2 38 41 PM](https://github.com/user-attachments/assets/d40a0ae4-9214-4062-bd35-11aa8fcbbe75)
 
 
 
